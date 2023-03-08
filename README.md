@@ -14,3 +14,5 @@ Ed Brims is London's second ever beekeeper-magician, and here's the sort of thin
 [![Bee Magic](https://img.youtube.com/vi/hn-aSjQo_pk/maxresdefault.jpg)](https://www.youtube.com/watch?v=hn-aSjQo_pk)
 
 [Get in touch](mailto:edbrims@gmail.com) and see Ed's bee magic for yourself!
+
+Or explore [emsot](emsot), the part of the site where Ed Makes Sense Of Things that are not magical or apian.
