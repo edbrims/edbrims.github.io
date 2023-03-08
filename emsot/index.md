@@ -6,8 +6,8 @@ There have been moments over the last few decades when I haven't been thinking a
 Sometimes I have drawn myself silly diagrams or made lists or created stop-motion animations to explain them to myself.
 
 
-| Preview                                                          |                                                 |
-|------------------------------------------------------------------|-------------------------------------------------|
-![The universe of Beatrix Potter](universe-of-beatrix-potter.png ) | [The universe of Beatrix Potter](beatrix)       |
-![Greek mythology](greek-mythology.gif )                           | [My big fat Greek mythology family tree](greek) |
-![Brims Point diagram](brims-point.png)                            | [The Brims Point](point)                        |
+| Preview                                                                     |                                                 |
+|-----------------------------------------------------------------------------|-------------------------------------------------|
+[![The universe of Beatrix Potter](universe-of-beatrix-potter.png )](beatrix) | [The universe of Beatrix Potter](beatrix)       |
+[![Greek mythology](greek-mythology.gif )](greek)                             | [My big fat Greek mythology family tree](greek) |
+[![Brims Point diagram](brims-point.png)](point)                              | [The Brims Point](point)                        |
