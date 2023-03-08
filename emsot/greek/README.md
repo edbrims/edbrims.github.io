@@ -2,7 +2,7 @@
 
 This was my attempt as a student to draw a family tree of the whole of Greek mythology.
 
-![Greek mythology](emsot/greek-mythology.gif)
+![Greek mythology](greek-mythology.gif)
 
 Some things about it:
 
