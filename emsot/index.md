@@ -1,8 +1,13 @@
 # Emsot
 ## Ed Makes Sense of Things
 
-At moments over the last few decades when I haven't been thinking about magic or bees, I have often been trying to make sense of things that I don’t understand.
+There have been moments over the last few decades when I haven't been thinking about magic or bees. In some of those moments, I have been trying to make sense of things that I don’t understand.
 
 Sometimes I have drawn myself silly diagrams or made lists or created stop-motion animations to explain them to myself.
 
-Here are some of them.
+
+| Preview                                                          |                                                    |
+|------------------------------------------------------------------|----------------------------------------------------|
+![The universe of Beatrix Potter](universe-of-beatrix-potter.png ) | [The universe of Beatrix Potter](beatrix.md)       |
+![Greek mythology](greek-mythology.gif )                           | [My big fat Greek mythology family tree](greek.md) |
+![Brims Point diagram](brims-point.png)                            | [The Brims Point](point.md)                        |
