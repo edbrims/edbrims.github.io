@@ -1,4 +1,5 @@
-# 🪄🐝 Ed Brims - the beekeeper-magician 🐝🪄
+# 🪄🐝 Ed Brims 🐝🪄
+## The beekeeper-magician
 
 ![Magician Ed](magician_ed_500.jpg) |  ![Beekeeper Ed](beekeeper_ed_500.jpg)
 :----------------------------------:|:--------------------------------------:
