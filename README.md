@@ -1,7 +1,7 @@
 # 🪄🐝 Ed Brims 🐝🪄
-## The beekeeper-magician
+## <img src="mmc.png" width="20"/> The beekeeper-magician
 
-![Magician Ed](magician_ed_500.jpg) |  ![Beekeeper Ed](beekeeper_ed_500.jpg)
+![Magician Ed](stage-ed-500.jpeg) |  ![Beekeeper Ed](beekeeper_ed_500.jpg)
 :----------------------------------:|:--------------------------------------:
 Ed does magic!                      |  Ed keeps bees!
 
@@ -12,6 +12,8 @@ Until now!
 Ed Brims is London's second ever beekeeper-magician, and here's the sort of thing he does:
 
 [![Bee Magic](https://img.youtube.com/vi/hn-aSjQo_pk/maxresdefault.jpg)](https://www.youtube.com/watch?v=hn-aSjQo_pk)
+
+<img src="mmc.png" width="50" /> Ed is a proud Member of the Magic Circle, the world's premier magic society.
 
 [Get in touch](mailto:edbrims@gmail.com) and see Ed's bee magic for yourself!
 
