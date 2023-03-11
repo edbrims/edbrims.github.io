@@ -5,7 +5,7 @@
 :--------------------------------:|:--------------------------------------:
 Ed does magic!                    |  Ed keeps bees!
 
-In the eighteenth century, beekeeper Daniel Widmann performed at Astley's Amphitheatre with a trained swarm of bees. They followed his assistant as she rode a horse around the arena, forming themselves into a buzzing suit of armour around her body. There are no pictures of the event, and after his run came to an end, bee magic was never again seen in London.
+In the 1770s, beekeeper Daniel Wildman presented an "Exhibition of the Bees on Horseback" around London. A swarm of bees followed him or his horseback assistant, forming themselves into a mask or a buzzing suit of armour. There are no pictures of the show, and after his run came to an end, bee magic was never again seen in London.
 
 Until now!
 
