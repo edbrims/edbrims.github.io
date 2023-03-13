@@ -5,14 +5,14 @@
 :--------------------------------:|:--------------------------------------:
 Ed does magic!                    |  Ed keeps bees!
 
-In the 1770s, beekeeper Daniel Wildman presented an "Exhibition of the Bees on Horseback" around London. A swarm of bees followed him or his horseback assistant, forming themselves into a mask or a buzzing suit of armour. There are no pictures of the show, and after his run came to an end, bee magic was never again seen in London.
+In 1772 a stunt beekeeping double-act of Daniel Wildman and Patty Astley presented an "Exhibition of the Bees on Horseback" around London. A swarm of bees followed them around the arena, forming a mask or a buzzing suit of armour around them. After their show came to an end, bee magic was never again seen in London.
 
 Until now!
 
-Ed Brims is London's second ever beekeeper-magician. Here's a video of the sort of thing he does:
+Ed Brims presents London's second ever bee magic act. Here's a video of the sort of thing he does:
 
 [![Bee Magic](https://img.youtube.com/vi/hn-aSjQo_pk/maxresdefault.jpg)](https://www.youtube.com/watch?v=hn-aSjQo_pk)
 
-<img src="mmc.png" width="50" /> Ed is a proud Member of the Magic Circle, the world's premier magic society.
+<img src="mmc.png" width="50" /> Ed is a Member of the Magic Circle, the world's premier magic society.
 
 [Get in touch](mailto:edbrims@gmail.com) and see Ed's bee magic for yourself!
