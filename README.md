@@ -12,7 +12,6 @@ Until now!
 Ed Brims presents London's second ever bee magic act. Here's a video of the sort of thing he does:
 
 [![Bee Magic](https://img.youtube.com/vi/hn-aSjQo_pk/maxresdefault.jpg)](https://www.youtube.com/watch?v=hn-aSjQo_pk)
-:--------------------------------:|
 
 <img src="TMC-Member-of-mark-RGB-blue.svg" width="100" />
 
