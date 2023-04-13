@@ -9,6 +9,6 @@ Sometimes I have drawn myself silly diagrams or made lists or created stop-motio
 |                                                                 |                                                 |
 |-----------------------------------------------------------------|-------------------------------------------------|
 [<img src="universe-of-beatrix-potter.png" width="200">](beatrix) | [The universe of Beatrix Potter](beatrix)       |
-[<img src="baking_venn.jpg" width="200">](point)                  | [Venn diagram of baking](baking)                |
+[<img src="baking_venn.jpg" width="200">](baking)                 | [Venn diagram of baking](baking)                |
 [<img src="greek-mythology.gif" width="200">](greek)              | [My big fat Greek mythology family tree](greek) |
 [<img src="brims-point.png" width="200">](point)                  | [The Brims Point](point)                        |
